@@ -39,7 +39,9 @@ export default {
    margin-right:20px;
    margin-top:20px;
    border:2px solid rgb(232, 234, 237);
-   border-radius: 12px;
+   border-radius: 12px; 
+   border-bottom-color:rgb(92,192,146) ;
+   border-bottom-width: 5px;
    }
 
 img{
@@ -51,16 +53,6 @@ img{
   font-weight:600;
   margin-top: 15px;
   }
-
-.bottom-color{
-    height: 10px;
-    width: 100%;
-    background-color:rgb(92,192,146);
-    color:rgb(92,192,146);
-    border-radius:900px;
-    position: absolute;
-    bottom: 0px;  
-}
 
 form{
   margin-top:30px;

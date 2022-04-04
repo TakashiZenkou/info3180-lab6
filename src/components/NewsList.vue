@@ -4,7 +4,6 @@
         <img :src="article.urlToImage"/>
         <p class="title">{{article.title}}</p>
         {{article.description}}
-        <div class="bottom-color"></div>
     </div>
 </div>
 
